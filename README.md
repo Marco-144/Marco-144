@@ -71,6 +71,6 @@ Actualmente disfruto crear proyectos que mezclen:
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/portfolio-proximamente-0FF?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+[![portfolio](https://img.shields.io/badge/portfolio-38B2AC?style=for-the-badge&logo=ko-fi&logoColor=white)](https://marcomadera.com.mx/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-madera/)
 
